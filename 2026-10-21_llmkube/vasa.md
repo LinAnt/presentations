@@ -434,3 +434,7 @@ Linkedin: [Anton Lindholm](https://www.linkedin.com/in/anton-lindholm-b582b514a)
 
 Questions?
 ---
+
+![Slides](./images/qr.png)
+
+[Link](https://github.com/LinAnt/presentations/tree/main/2026-10-21_llmkube)
