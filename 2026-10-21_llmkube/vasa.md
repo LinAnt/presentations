@@ -62,7 +62,9 @@ Container Device Interface
 - removes the need for container runtime specific plugins
 - NVIDIA operator provides this, and much more
   - <https://github.com/NVIDIA/gpu-operator/>
+  - nvidia.com/gpu: x
 
+![nvidia-operator](./images/nvidia-gpu-allocatable.png)
 <!-- end_slide -->
 <!-- jump_to_middle -->
 
